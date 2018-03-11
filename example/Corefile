@@ -1,0 +1,6 @@
+. {
+    schedule google.com. 7:30 21:00
+    schedule yahoo.com. 7:30 21:00
+    
+    forward . 8.8.8.8
+}
