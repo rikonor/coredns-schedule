@@ -73,8 +73,6 @@ func setup(c *caddy.Controller) error {
 		return sch
 	})
 
-	fmt.Printf("%+v\n", sch)
-
 	return nil
 }
 
